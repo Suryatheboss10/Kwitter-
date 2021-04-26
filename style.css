@@ -1,0 +1,32 @@
+body
+{
+background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+}
+
+#logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+
+#header
+{
+    font-family:'Bebas Neue';
+}
+
+#main-header
+{
+    font-family:'Bebas Neue';
+}
+
+#label
+{
+    font-family:'Bebas Neue';
+}
+#account_name
+{
+font-family: 'Pathway Gothic One';
+width: 150px;
+height: 50px;
+border-radius: 30px;
+border-color: burlywood;
+}
